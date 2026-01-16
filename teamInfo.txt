@@ -1,0 +1,4 @@
+teamName: Suii
+student1_fullName: Md Nazmus Saad
+student1_studentNumber: 1010243194
+student1_email: md.saad@mail.utoronto.ca
